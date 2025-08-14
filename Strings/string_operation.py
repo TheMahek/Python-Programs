@@ -1,0 +1,11 @@
+text = " I Am Python Programmer "
+print(text.upper())
+print(text.lower())
+print(text.title())
+print(text.capitalize())
+print(text.swapcase())
+print(text.find("Am"))
+print(text.replace("I Am", "We Are"))
+print(text.strip())
+print(text.split(" "))
+print(text.count("P"))
